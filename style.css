@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+section{
+    display:flex;
+    margin-bottom:70px;
+    
+    
+    
+    
+}
+.healthy{
+    width:50%;
+    padding-left: 5%;
+    
+   
+
+}
+
+.healthy h1{
+    font-size:70px;
+    color:rgba(0, 0, 0, 0.842)
+    
+}
+.healthy p{
+    color:gray;
+    
+}
+.healthy a{
+    text-decoration: none;
+    color:white;
+    background-color:orangered;
+    padding:10px 20px ;
+    border-radius: 40px;
+    
+
+
+}
+#healthy{
+    margin-top:60px;
+    padding-left: 40px;
+}
+.healthy img{
+    width:80%;
+
+}
+#span{
+    color:orange
+}
+.btn{
+    margin-top:40px;
+}
+#jaber img{
+    width:30%;
+
+}
+#About-sec{
+    background-image: url(images/shapes/7.png);
+}
+
+.Recipie{
+    display:flex;
+}
+.item{
+    width:50%;
+    padding-left: 7%;
+    
+}
+.item img{
+    width:70%;
+}
+.paragraph{
+    text-align:center;
+    margin-bottom:40px;
+    color:gray
+}
+.food-item{
+    margin-bottom: 70px;
+}
+.subscribe{
+    display:flex;
+    padding: 15px;;
+    border-radius: 10px;
+    box-shadow: 100px 100px 500px whitesmoke;
+    
+}
+.like{
+    padding-left:300px;
+
+}
+.dislike{
+    margin-bottom:50px;
+}
+.Last-part{
+    
+    height:200px;
+    background-color: black;
+    text-align: center;
+    margin-top: 70px;
+
+}
+.Last-part h1{
+    padding-top:70px;
+    
+}
+span{
+    color:orange
+}
+.Last-part p{
+    color:white;
+}
+
+
